@@ -43,9 +43,9 @@ Connection page.
 
   • Schematics and PCB gerber files
   • STL files for housing
-  • for assembly additional screws, plastic circle and o-ring are needed
+  • for assembly additional screws, UV transparent acrylic circle, battery and o-ring are needed
 
-<img src="https://github.com/jurecej/Ozon/blob/main/pictures/2024-03-20-UV-sensor-assembly.png" width="228"/>
+<img src="https://github.com/jurecej/Ozon/blob/main/pictures/2024-03-20-UV-sensor-assembly.png" width="828"/>
   
 #  4. Support scripts
 
