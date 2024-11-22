@@ -32,7 +32,7 @@ Connection page.
 
  # 2. Firmware
 
- Code uses arduino libraries and is uploded on ATmega328.
+ Code uses arduino libraries and is uploaded on ATmega328.
 
  ## Requirements
    • Arduino Uno or similar for uploading the code to sensor (Arduino ISP)
