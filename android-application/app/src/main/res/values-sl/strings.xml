@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ozon</string>
+    <string name="downloading">Prenašanje...</string>
+    <string name="charging">Polnjenje</string>
+    <string name="select_sunscreen_factor">Izberi faktor sončne kreme</string>
+    <string name="sun">Ned</string>
+    <string name="mon">Pon</string>
+    <string name="tue">Tor</string>
+    <string name="wed">Sre</string>
+    <string name="thu">Čet</string>
+    <string name="fri">Pet</string>
+    <string name="sat">Sob</string>
+    <string name="UV_daily_max">Dnevna UV doza %</string>
+    <string name="daily_temperature">Najvišja dnevna temperatura °C</string>
+    <string name="uname_label">Uporabniško ime</string>
+    <string name="uname_input">Uporabniško ime</string>
+    <string name="select_skin_type">Izberi tip kože</string>
+    <string name="save">Shrani</string>
+    <string name="searching_device">Iskanje naprave...</string>
+    <string name="connect">Poveži</string>
+    <string name="disconnect">Prekini povezavo</string>
+    <string name="no_device_found">Naprave ni mogoče najti</string>
+    <string name="connecting">Povezovanje...</string>
+    <string name="disconnected">Prekinjena povezava</string>
+    <string name="name_saved">Uporabniško ime shranjeno</string>
+    <string name="UV_index_alert">UV indeks opozorilo</string>
+    <string name="go_outside_to_catch_some_sun">Pojdi na sonce in napolni svoje zaloge D vitamina</string>
+    <string name="skin_type_I">Tip kože I</string>
+    <string name="skin_type_II">Tip kože II</string>
+    <string name="skin_type_III">Tip kože III</string>
+    <string name="skin_type_IV">Tip kože IV</string>
+    <string name="skin_type_V">Tip kože V</string>
+    <string name="skin_type_VI">Tip kože VI</string>
+    <string name="dose_50">50% dnevne doze UV-žarkov je bila dosežena. Prosimo, upoštevaj previdnostne ukrepe. Obnovi zaščito pred soncem.</string>
+    <string name="dose_100">Nivo UV-indeksa je nad 100% dnevnega odmerka. Prosimo, upoštevaj previdnostne ukrepe. Skrij se v senco.</string>
+</resources>
