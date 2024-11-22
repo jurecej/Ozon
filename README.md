@@ -17,12 +17,15 @@ Current UV index and temperature with sensor battery level. Under the indicatior
 <img src="https://github.com/jurecej/Ozon/blob/main/pictures/3.png" width="228"/>
 
 Daily UV dose and max temperature.
+
 <img src="https://github.com/jurecej/Ozon/blob/main/pictures/4.png" width="228"/>
 
 Username and skin type selection.
+
 <img src="https://github.com/jurecej/Ozon/blob/main/pictures/5.png" width="228"/>
 
 Connection page.
+
 <img src="https://github.com/jurecej/Ozon/blob/main/pictures/6.png" width="228"/>
 
  # 2. Firmware
@@ -30,7 +33,7 @@ Connection page.
  Code uses arduino libraries and is upodaed on ATmega328.
 
  ## Requirements
-   *Arduino Uno or similar for uploading the code to sensor (Arduino ISP)
-   *PCB Programming clip kit
+   • Arduino Uno or similar for uploading the code to sensor (Arduino ISP)
+   • PCB Programming clip kit
 
  
