@@ -1,6 +1,8 @@
 # Ozon
 Ozon portable solar protection sensor. Easy to use Arduino base UV index sensor used to track UV index and notifiy user about overexposure.
 
+<img src="https://github.com/jurecej/Ozon/blob/main/pictures/2.jpeg" width="228"/>
+
 # Project structure
 
   1. Android application
@@ -34,6 +36,17 @@ Connection page.
 
  ## Requirements
    • Arduino Uno or similar for uploading the code to sensor (Arduino ISP)
+   
    • PCB Programming clip kit
 
- 
+#  3. Hardware
+
+  • Schematics and PCB gerber files
+  • STL files for housing
+  • for assembly additional screws, plastic circle and o-ring are needed
+
+<img src="https://github.com/jurecej/Ozon/blob/main/pictures/2024-03-20-UV-sensor-assembly.png" width="228"/>
+  
+#  4. Support scripts
+
+Python script used to upload code to the sensor easily.
